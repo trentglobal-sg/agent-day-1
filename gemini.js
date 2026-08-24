@@ -1,5 +1,6 @@
 // require is the same as import in Python
 // it is used to import in variables and functions from other dependencies and files
+// the default path to import from is node_modules
 require('dotenv').config();
 const { GoogleGenAI } = require('@google/genai');
 
