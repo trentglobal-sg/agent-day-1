@@ -1,0 +1,8 @@
+{
+    "firstName":"Tony",
+    "lastName":"Stare",
+    "age": 42,
+    "hobbies":[
+        "spend money", "build suits", "fight other avengers"
+    ]
+}
